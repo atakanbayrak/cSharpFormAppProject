@@ -1,0 +1,10 @@
+C:\Users\ataka\source\repos\BasicFormApplication\BasicFormApplication\bin\Debug\BasicFormApplication.exe.config
+C:\Users\ataka\source\repos\BasicFormApplication\BasicFormApplication\bin\Debug\BasicFormApplication.exe
+C:\Users\ataka\source\repos\BasicFormApplication\BasicFormApplication\bin\Debug\BasicFormApplication.pdb
+C:\Users\ataka\source\repos\BasicFormApplication\BasicFormApplication\obj\Debug\BasicFormApplication.csproj.AssemblyReference.cache
+C:\Users\ataka\source\repos\BasicFormApplication\BasicFormApplication\obj\Debug\BasicFormApplication.Form1.resources
+C:\Users\ataka\source\repos\BasicFormApplication\BasicFormApplication\obj\Debug\BasicFormApplication.Properties.Resources.resources
+C:\Users\ataka\source\repos\BasicFormApplication\BasicFormApplication\obj\Debug\BasicFormApplication.csproj.GenerateResource.cache
+C:\Users\ataka\source\repos\BasicFormApplication\BasicFormApplication\obj\Debug\BasicFormApplication.csproj.CoreCompileInputs.cache
+C:\Users\ataka\source\repos\BasicFormApplication\BasicFormApplication\obj\Debug\BasicFormApplication.exe
+C:\Users\ataka\source\repos\BasicFormApplication\BasicFormApplication\obj\Debug\BasicFormApplication.pdb
